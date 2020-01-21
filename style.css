@@ -1,0 +1,74 @@
+body{
+  background-color: white;
+  font-family: roboto;
+}
+
+.profile{
+  border-radius: 1px;
+  border-style: solid;
+  border-color: red;
+}
+
+#profileBox{
+  border-radius: 1px;
+  border-style: solid;
+  border-color: yellow;
+}
+
+.prettyProfileBoxRow{
+  /* position: relative; */
+  display: inline-block;
+  /* border-style: solid; */
+  /* border-color: green; */
+  width: 100%;
+  height: 100%;
+}
+
+.prettyProfileBox{
+  background-color: lightgrey;
+  float:left;
+  /* border-style: solid; */
+  /* border-color: red; */
+  width: 20%;
+  margin-left: 10%;
+  margin-bottom: 10%;
+}
+
+.prettyProfileBoxPic{
+  background-color: grey;
+  width: 100%;
+  height: 40%;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.prettyProfileBoxName{
+  background-color: darkgrey;
+  width: 100%;
+  height: 20%;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.prettyProfileBoxAbout{
+  padding: 20px;
+}
+
+h1{
+  font-family: helvetica;
+  margin: 0px;
+  margin-bottom: 10px;
+}
+
+h3{
+  font-family: helvetica;
+  margin: 0px;
+}
+
+h4{
+  font-family: helvetica;
+  margin: 0px;
+}
